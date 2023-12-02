@@ -1,12 +1,12 @@
 # Hello, I'm Caversan, be welcome!
 
-<div class='container'>
+<div class='container' style='text-align: center;'>
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
 &nbsp;
 &nbsp;
-<img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" /></div>
+<img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" />
 </div>
-</div>
+
 
 
 <!-- Focus on what matters -->
