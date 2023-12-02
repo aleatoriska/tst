@@ -1,10 +1,10 @@
 # Hello, I'm Caversan, be welcome!
 
 <div class='container'>
-<img style="height: auto; width: 55%;" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" /></div>
+<img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" /></div>
 </div>
 </div>
 
@@ -22,7 +22,6 @@
  
 <div> 
 
-### Contact me by:
 
 <div>
   <a href="https://www.linkedin.com/in/leonardo-caversan-moi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
