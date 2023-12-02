@@ -5,9 +5,6 @@
 &nbsp;
 &nbsp;
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" />
-</div>
-
-
 
 <!-- Focus on what matters -->
 <div style="display: inline_block"><br>
@@ -37,3 +34,9 @@
   ![Snake animation](https://github.com/v-macrev/v-macrev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
  
 </div>
+
+</div>
+
+
+
+
