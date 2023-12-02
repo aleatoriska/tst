@@ -1,6 +1,6 @@
 # Hello, I'm Caversan, be welcome!
 
-<div class='container' style='text-align: center;'>
+<div class='container' align='center'>
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
 &nbsp;
 &nbsp;
